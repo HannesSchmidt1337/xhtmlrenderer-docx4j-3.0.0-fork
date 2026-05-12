@@ -5,9 +5,9 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.docx4j</groupId>
+	<groupId>de.estarcolibri.docx4j</groupId>
 	<artifactId>xhtmlrenderer</artifactId>
-	<version>3.0.0</version>
+	<version>3.0.0-fork1</version>
 
     <packaging>jar</packaging>
 
